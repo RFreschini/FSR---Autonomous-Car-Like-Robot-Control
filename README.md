@@ -1,6 +1,6 @@
 # FSR---Autonomous-Car-Like-Robot-Control
 
-##Guide to test the controller:
+# Guide to test the controller:
 1. Add the whole folder in the workspace
 2. Open "Main.mlx"
 3. Each block represents a different circuit
@@ -13,4 +13,5 @@ In the folders there are already the delaunay triangulation for each circuit and
 
 # Example
 "Circuito-Matlab\track_matlab.mat" is the file with the global position of the landmarks;
+
 "Circuito-Matlab\Point_new_map_1000.mat" has the delaunay triangulation result.
